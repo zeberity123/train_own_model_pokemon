@@ -1,0 +1,19 @@
+classification
+- googlenet
+- vgg
+- resnet
+- efficient net
+
+detection
+- RCNN fast RCNN faster RCNN
+- YOLO v1~v3, v4 YOLO X
+- SSD, Retinanet
+- EfficientDET
+
+Segment
+- FCN
+- UNET , UNET+++
+- SAM
+
+3D
+- Voxel Net
